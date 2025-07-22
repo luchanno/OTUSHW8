@@ -55,5 +55,5 @@ kubectl create -f ./kafka/resources/zookeeper.yml && kubectl create -f ./kafka/r
 * Коллекция: https://www.postman.com/alexkorkhov/public/collection/794gnl5/otus-saga-8
 * Сценарий: https://www.postman.com/alexkorkhov/public/collection/kx2umvz/otus-saga-8-tests
 * Проверка коллекции: `newman run testing/OTUS-SAGA-8-TESTS.postman_collection.json -r htmlextra` 
-* Результат выполнения: `newman/OTUS-BILLING-7-TESTS-2025-07-15-18-12-29-098-0.html`
+* Результат выполнения: `newman/OTUS-SAGA-8-TESTS-2025-07-22-17-30-40-141-0.html`
 
