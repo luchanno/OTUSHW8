@@ -28,7 +28,7 @@
 
 ```kubectl create ns msusers-ns```
 
-## 3) Установит Kafka
+## 3) Установить Kafka
 
 kubectl create -f ./kafka/resources/zookeeper.yml && kubectl create -f ./kafka/resources/kafka.yml
 
